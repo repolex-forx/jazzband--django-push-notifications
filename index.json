@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-push-notifications",
+  "versions": [
+    {
+      "commit": "613e7e9448a5b0d9d49da86d8b5d4f5390e7cd85",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:26:39.946082+00:00"
+    }
+  ]
+}
