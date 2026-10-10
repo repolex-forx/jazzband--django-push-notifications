@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-push-notifications/commit/613e7e9448a5b0d9d49da86d8b5d4f5390e7cd85",
       "git:hexsha": "613e7e9448a5b0d9d49da86d8b5d4f5390e7cd85",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-push-notifications/commit/357fe2aed10cd701fb19843c8f0e8331d098aed0",
